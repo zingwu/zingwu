@@ -23,7 +23,8 @@
 
   <!--START_SECTION:waka-->
 ```text
-Other        3 hrs 25 mins   ████████████████████████░   96.26 % 
-Emacs Lisp   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Other        3 hrs 57 mins   ███████████████████████▓░   95.08 % 
+Emacs Lisp   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+tmux         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 <!--END_SECTION:waka-->
