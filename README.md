@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏢 I'm currently working at **Silk**
+- 🏢 I'm currently working at **Fiture**
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
