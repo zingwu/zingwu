@@ -22,11 +22,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zingwu&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
   <!--START_SECTION:waka-->
+
 ```text
-Other        26 hrs 23 mins  ██████████████████████▒░░   89.69 % 
-TypeScript   2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-JavaScript   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-LESS         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other        26 hrs 23 mins  ██████████████████████▒░░   89.69 %
 ```
+
 <!--END_SECTION:waka-->
